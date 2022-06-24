@@ -1,4 +1,6 @@
-# Thresholding of Images
+### EX NO: 09
+### DATE:
+# <p align="center">Thresholding of Images</p>
 ## Aim:
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
@@ -33,7 +35,10 @@ Use Otsu's method to segment the image.
 Display the results.
 
 ## Program:
-
+```
+Developed By: KAYALVIZHI M
+Register Number: 212220230024
+```
 ```python
 # Load the necessary packages
 
